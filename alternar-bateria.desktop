@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Alternar Limite Bateria (80% / 100%)
+Comment=Alterna o carregamento da bateria Acer entre 80% e 100%
+Exec=/bin/bash -c "$HOME/.local/bin/alternar-bateria.sh"
+Icon=bateria-80-verde
+Terminal=false
+Type=Application
+Categories=System;Settings;Utility;
+Keywords=acer;battery;bateria;limite;conservacao;
+StartupNotify=false
