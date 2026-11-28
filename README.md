@@ -10,7 +10,7 @@ Inclui notificação visual nativa no desktop e atualização dinâmica do ícon
 
 Este projeto depende do driver de kernel **`acer-wmi-battery`** para controlar o limiar de carga (`health_mode`).
 
-### Instalação do driver (Arch Linux / Manjaro):
+### Instalação do driver (BigLinux / Arch Linux / Manjaro):
 ```bash
 yay -S acer-wmi-battery-dkms
 ```
